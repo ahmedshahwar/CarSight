@@ -1,0 +1,127 @@
+Make,Model,Variant,Year,Engine-CC,Engine-Type,Transmission
+baic,bj40,exclusive,2021-2023,2000,Petrol,Automatic
+baic,bj40,honorable,2021-2023,2000,Petrol,Automatic
+changan,alsvin,1.3 comfort,2021-2023,1300,Petrol,Manual
+changan,alsvin,1.5 comfort,2021-2023,1500,Petrol,Automatic
+changan,alsvin,1.5 lumiere,2021-2023,1500,Petrol,Automatic
+changan,karvaan,base,2018-2023,1000,Petrol,Manual
+changan,karvaan,limited,2018-2023,1000,Petrol,Manual
+changan,karvaan,plus,2018-2023,1000,Petrol,Manual
+changan,oshan x7,comfort,2022-2023,1500,Petrol,Automatic
+changan,oshan x7,futuresense,2022-2023,1500,Petrol,Automatic
+chery,tiggo 4 pro,1.5T,2022-2023,1500,Petrol,Automatic
+chery,tiggo 8 pro,1.6,2022-2023,1600,Petrol,Automatic
+dfsk,glory,1.5,2020-2023,1500,Petrol,Manual
+dfsk,glory,580 pro,2020-2023,1500,Petrol,Automatic
+haval,h6,1.5T,2021-2023,1500,Petrol,Automatic
+haval,h6,2.0 AWD,2021-2023,2000,Petrol,Automatic
+haval,h6,hev,2023-2023,1500,Hybrid,Automatic
+haval,jolion,1.5T,2021-2023,1500,Petrol,Automatic
+honda,br v,MT,2017-2023,1500,Petrol,Manual
+honda,br v,s,2017-2023,1500,Petrol,Automatic
+honda,city,1.2 CVT,2021-2023,1200,Petrol,Automatic
+honda,city,1.2 MT,2021-2023,1200,Petrol,Manual
+honda,city,1.3 prosmatec,2013-2021,1300,Petrol,Automatic
+honda,city,1.3,2013-2021,1300,Petrol,Manual
+honda,city,1.5 CVT,2021-2023,1500,Petrol,Automatic
+honda,city,1.5 prosmatec,2013-2021,1500,Petrol,Automatic
+honda,city,1.5,2013-2021,1500,Petrol,Manual
+honda,city,aspire CVT,2021-2023,1500,Petrol,Automatic
+honda,city,aspire prosmatec,2013-2021,1500,Petrol,Automatic
+honda,city,aspire,2013-2021,1500,Petrol,Manual
+honda,civic,i vtec prosmatec,2013-2016,1800,Petrol,Automatic
+honda,civic,i vtec,2013-2016,1800,Petrol,Manual
+honda,civic,i vtec,2016-2021,1800,Petrol,Manual
+honda,civic,oriel cvt,2016-2021,1800,Petrol,Automatic
+honda,civic,oriel prosmatec,2013-2016,1800,Petrol,Automatic
+honda,civic,oriel,2013-2016,1800,Petrol,Automatic
+honda,civic,oriel,2021-2023,1500,Petrol,Automatic
+honda,civic,rs turbo,2016-2021,1500,Petrol,Automatic
+honda,civic,rs,2021-2023,1500,Petrol,Automatic
+honda,civic,standard,2021-2023,1500,Petrol,Automatic
+honda,hr v,s,2022-2023,1500,Petrol,Automatic
+hyundai,elantra,gl,2020-2023,1600,Petrol,Automatic
+hyundai,elantra,gls,2020-2023,2000,Petrol,Automatic
+hyundai,santafe,signature,2021-2023,1600,Hybrid,Automatic
+hyundai,santafe,smart,2021-2023,1600,Hybrid,Automatic
+hyundai,sonata,2,2020-2023,2000,Petrol,Automatic
+hyundai,sonata,2.5,2020-2023,2500,Petrol,Automatic
+hyundai,tucson,AWD ultimate,2020-2023,2000,Petrol,Automatic
+kia,carnival,gls ,2021-2023,3500,Petrol,Automatic
+kia,picanto,auto,2019-2023,1000,Petrol,Automatic
+kia,picanto,manual,2019-2023,1000,Petrol,Manual
+kia,sorento,3.5 fwd,2021-2023,3500,Petrol,Automatic
+kia,sorento,awd,2021-2023,2400,Petrol,Automatic
+kia,sorento,fwd,2021-2023,2400,Petrol,Automatic
+kia,sportage,AWD,2019-2023,2000,Petrol,Automatic
+kia,sportage,alpha,2019-2023,2000,Petrol,Automatic
+kia,sportage,fwd,2019-2023,2000,Petrol,Automatic
+kia,stonic,ex,2021-2023,1400,Petrol,Automatic
+mg,hs,1.5T,2020-2023,1500,Petrol,Automatic
+mg,hs,phev,2020-2023,1500,Hybrid,Automatic
+mg,hs,trophy,2020-2023,1500,Petrol,Automatic
+peugeot,2008,active allure,2021-2023,1200,Petrol,Automatic
+peugeot,e2008,gt,2022-2023,,Electric,Automatic
+prince,pearl,manual,2019-2023,800,Petrol,Manual
+proton,saga,ace,2021-2023,1300,Petrol,Automatic
+proton,saga,at mt,2021-2023,1300,Petrol,Manual
+proton,x70,fwd,2021-2023,1500,Petrol,Automatic
+suzuki,alto,vx,2013-2023,660,Petrol,Manual
+suzuki,alto,vxl ags,2013-2023,660,Petrol,Automatic
+suzuki,alto,vxr ags,2013-2023,660,Petrol,Automatic
+suzuki,alto,vxr,2013-2023,660,Petrol,Manual
+suzuki,bolan,euro 2,2013-2023,800,Petrol,Manual
+suzuki,cultus,euro 2,2013-2017,1000,Petrol,Manual
+suzuki,cultus,limited edition,2016-2017,1000,Petrol,Manual
+suzuki,cultus,vxl ags,2017-2023,1000,Petrol,Automatic
+suzuki,cultus,vxl,2017-2023,1000,Petrol,Manual
+suzuki,cultus,vxr,2013-2015,1000,Petrol,Manual
+suzuki,cultus,vxr,2017-2023,1000,Petrol,Manual
+suzuki,mehran,vx,2013-2019,800,Petrol,Manual
+suzuki,mehran,vxr,2013-2019,800,Petrol,Manual
+suzuki,swift,automatic,2013-2021,1300,Petrol,Automatic
+suzuki,swift,dlx navigation,2018-2021,1300,Petrol,Manual
+suzuki,swift,dlx,2013-2018,1300,Petrol,Manual
+suzuki,swift,dx,2013-2018,1300,Petrol,Manual
+suzuki,swift,gl cvt,2021-2023,1300,Petrol,Automatic
+suzuki,swift,gl,2021-2023,1300,Petrol,Manual
+suzuki,swift,glx cvt,2021-2023,1300,Petrol,Automatic
+suzuki,wagon r,vxl ags,2017-2023,1000,Petrol,Automatic
+suzuki,wagon r,vxl,2017-2023,1000,Petrol,Manual
+suzuki,wagon r,vxr,2017-2023,1000,Petrol,Manual
+toyota,corolla altis,1.6 SR,2013-2014,1600,Petrol,Automatic
+toyota,corolla altis,1.6X SE,2021-2023,1600,Petrol,Automatic
+toyota,corolla altis,1.6X,2020-2023,1600,Petrol,Automatic/Manual
+toyota,corolla altis,1.6,2013-2014,1600,Petrol,Automatic/Manual
+toyota,corolla altis,1.6,2014-2019,1600,Petrol,Automatic/Manual
+toyota,corolla altis,1.8X,2020-2023,1800,Petrol,Automatic/Manual
+toyota,corolla altis,1.8,2014-2019,1800,Petrol,Automatic/Manual
+toyota,corolla altis,grande X,2020-2023,1800,Petrol,Automatic/Manual
+toyota,corolla altis,grande,2014-2019,1800,Petrol,Automatic/Manual
+toyota,corolla,gli 1.6,2013-2014,1600,Petrol,Automatic/Manual
+toyota,corolla,gli se,2017-2020,1600,Petrol,Automatic
+toyota,corolla,gli,2013-2014,1300,Petrol,Automatic/Manual
+toyota,corolla,gli,2014-2018,1300,Petrol,Automatic/Manual
+toyota,corolla,xli,2013-2014,1300,Petrol,Automatic/Manual
+toyota,corolla,xli,2014-2020,1300,Petrol,Automatic/Manual
+toyota,fortuner,2.7 G,2017-2023,2700,Petrol,Automatic
+toyota,fortuner,2.7 VVTi,2017-2023,2700,Petrol,Automatic
+toyota,fortuner,2.7 V,2017-2023,2700,Petrol,Automatic
+toyota,fortuner,2.8 sigma 4,2017-2023,2800,Diesel,Automatic
+toyota,fortuner,2.7 VVTi,2017-2023,2700,Petrol,Automatic
+toyota,fortuner,GR S,2023-2023,2800,Diesel,Automatic
+toyota,fortuner,TRD Sportivo,2013-2021,2800,Diesel,Automatic
+toyota,fortuner,legender,2022-2023,2800,Diesel,Automatic
+toyota,revo,GR S,2023-2023,2800,Diesel,Automatic
+toyota,revo,V 3.0,2017-2023,3000,Diesel,Automatic
+toyota,revo,V,2017-2023,2800,Diesel,Automatic
+toyota,revo,rocco,2022-2023,2800,Diesel,Automatic
+toyota,vigo champ,GX,2015-2017,2500,Diesel,Automatic
+toyota,vigo champ,V,2015-2017,2500,Diesel,Manual
+toyota,yaris,1.3 CVT,2020-2023,1300,Petrol,Automatic
+toyota,yaris,1.3 MT,2020-2023,1300,Petrol,Manual
+toyota,yaris,1.5 CVT,2020-2023,1500,Petrol,Automatic
+toyota,yaris,ATIV 1.5L MT,2020-2023,1500,Petrol,Manual
+toyota,yaris,GLI CVT,2020-2023,1300,Petrol,Automatic
+toyota,yaris,GLI MT,2020-2023,1300,Petrol,Manual
+united,bravo,base,2019-2023,800,Petrol,Manual
